@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @SAWINBEAST
-- 👀 I’m interested in science of future of this world 🌎
-- 🌱 I’m currently learning C# , C++ , REACT, JS , HTML+CSS , PHP , 1C;
-- 💞️ I’m looking to collaborate on your company)
-- 📫 How to reach me ? @Savinbeast (Telegram), 2savinbuslov2@gmail.com (email), +79999192243 (phone) ;)
-- The student of wed-developing faculty, but study .NET area with high interest. 
+- 👋 Hallelujah !
+- 👀 Doing good deeds and useful things for people 🌎
+- 🌱 .NET, C#, React, JS, etc.
+- 📫 @SavinCrew(Telegram), 2savinbuslov2@gmail.com (email) ;)
+- 🏥 RnD fullstack dev for PCR labs.
 
 <!---
 SAWINBEAST/SAWINBEAST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
